@@ -13,3 +13,5 @@ Cool tools and links:
 
 - identify any cipher: https://www.dcode.fr/cipher-identifier(this site contains many more awesome tools, do check them out!)
 - get factors for RSA primes(if you're lucky): http://www.factordb.com/
+- learn about hacking tricks: https://book.hacktricks.xyz/
+- Solve any substitution cipher: https://quipqiup.com/

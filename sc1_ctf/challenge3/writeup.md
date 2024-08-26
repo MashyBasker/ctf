@@ -10,7 +10,7 @@ We are given:
 
 ## Setup
 
-Opening the PDF in a regular PDF viewer reveals nothing significant:
+Opening the PDF in a regular PDF viewer reveals nothing useful:
 
 ![img](pdf.png)
 

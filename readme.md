@@ -17,3 +17,4 @@ Cool tools and links:
 - get factors for RSA primes(if you're lucky): http://www.factordb.com/
 - learn about hacking tricks: https://book.hacktricks.xyz/
 - Solve any substitution cipher: https://quipqiup.com/
+- Steganography tricks and tools: https://0xrick.github.io/lists/stego/#steganography
